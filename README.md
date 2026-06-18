@@ -1,4 +1,4 @@
-# Basic-Python-Concept
+# Python Course By Tutedude
 Here’s a simple **introduction to basic Python concepts** — perfect if you’re just starting out 👇  --
 1.)
 a = int(input("Enter the first number: "))
